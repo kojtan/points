@@ -1,5 +1,5 @@
 # points 
-# JuanJo Ramírez, mail: juan.moreno@ues.edu.sv
+### JuanJo Ramírez, mail: juan.moreno@ues.edu.sv
 
 import math #nos auxiliaremos de esta librería
 
